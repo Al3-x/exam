@@ -1,0 +1,6 @@
+time="17:54:28 11 Feb 2026" level=INFO source=/home/qq/go/vmacnet/logger/logger.go:66 msg="service started" work_dir=/home/qq/go/exam/work
+time="17:54:28 11 Feb 2026" level=ERROR source=/home/qq/go/vmacnet/logger/logger.go:66 msg="git command failed" args="[fetch origin]" output="" err="chdir /home/qq/go/exam/work: no such file or directory"
+time="17:55:11 11 Feb 2026" level=ERROR source=/home/qq/go/vmacnet/logger/logger.go:66 msg="git command failed" args="[fetch origin]" output="" err="chdir /home/qq/go/exam/work: no such file or directory"
+time="17:55:54 11 Feb 2026" level=ERROR source=/home/qq/go/vmacnet/logger/logger.go:66 msg="git command failed" args="[fetch origin]" output="" err="chdir /home/qq/go/exam/work: no such file or directory"
+time="17:56:48 11 Feb 2026" level=ERROR source=/home/qq/go/vmacnet/logger/logger.go:66 msg="git command failed" args="[fetch origin]" output="" err="chdir /home/qq/go/exam/work: no such file or directory"
+time="17:57:38 11 Feb 2026" level=ERROR source=/home/qq/go/vmacnet/logger/logger.go:66 msg="git command failed" args="[fetch origin]" output="" err="chdir /home/qq/go/exam/work: no such file or directory"
